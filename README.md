@@ -1,4 +1,4 @@
-# Web3_Swift_Collection
+# Web3 Swift Collection
 I want to gather everything regarding web3 and Swift/iOS in one place.<br />
 If something is missing, and there is for sure a lot, add it to the list in similar syntax 🕵️
 
