@@ -15,3 +15,5 @@ https://apps.apple.com/de/app/zerion-crypto-wallet-defi-nfts/id1456732565?l=en
 https://apps.apple.com/de/app/argent-defi-in-a-tap/id1358741926
 - MetaMask - Blockchain Wallet<br />
 https://apps.apple.com/de/app/metamask-blockchain-wallet/id1438144202?l=en
+- POAP App<br />
+https://apps.apple.com/de/app/poap-app/id1567078943?l=en
