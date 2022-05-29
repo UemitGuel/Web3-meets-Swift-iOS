@@ -1,5 +1,6 @@
 # Web3_Swift_Collection
-I want to gather everything regarding web3 and Swift/iOS in one plaxce 🙂 
+I want to gather everything regarding web3 and Swift/iOS in one place.
+If something is missing, and there is for sure a lot, just add it to the list in similar syntax :) 
 
 ## Libraries:
 - https://github.com/skywinder/web3swift: web3swift is an iOS toolbelt for interaction with the Ethereum network. 
